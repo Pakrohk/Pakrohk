@@ -3,6 +3,7 @@
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pakrohk)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rhpcir&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # 💻 Tech Stack:
 
