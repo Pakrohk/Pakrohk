@@ -9,7 +9,7 @@
         <p><strong>Evolve Beyond.</strong> I'm always ideating and pushing boundaries to transcend evolution.</p>
       </td>
       <td align="right">
-        <img src="https://via.placeholder.com/200x200.png?text=پاکروح" alt="Pakrohk's Soul" width="200" style="border-radius: 50%;" />
+        <img src="https://github.com/Pakrohk/Pakrohk/raw/main/assets/logo.gif" alt="Pakrohk's Soul" width="200" style="border-radius: 50%;" />
       </td>
     </tr>
   </table>
@@ -135,7 +135,7 @@ I'm a passionate developer from Bushehr, Iran, dedicated to continuously evolvin
   <a href="https://github.com/Pakrohk">
     <img src="https://img.shields.io/github/followers/Pakrohk?style=social" alt="GitHub Follow">
   </a>
-  <a href="https://khiar.net">
+  <a href="[https://khiar.net](https://khiar.net/@pakrohk)">
     <img src="https://img.shields.io/badge/Mastodon-@pakrohk-blue?style=social&logo=mastodon" alt="Mastodon Follow">
   </a>
 </p>
