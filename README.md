@@ -1,9 +1,8 @@
-# Hello, Welcome to My GitHub!
+# Hi, I'm Pakrohk 👋
 
-**Pakrohk**  
-*"Purify the soul like the soul of a frozen forest."*
+**"Purify the soul like the soul of a frozen forest."**
 
-## Dynamic Stats
+## My GitHub Stats
 
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -35,41 +34,42 @@
 
 ## About Me
 
-I'm a passionate developer from Bushehr, Iran, dedicated to creating elegant and efficient solutions. My work spans from personal configurations for development tools to innovative projects that improve everyday workflows. I love exploring new technologies and continuously refining my craft.
+I'm a passionate developer from Bushehr, Iran. I focus on creating elegant and efficient solutions—from customizing development environments to building innovative projects. I'm always exploring new technologies and refining my skills.
 
 ## Featured Projects
 
-Here are some of the projects I’m most proud of:
-
 - **[EvolveBeyond/NvPak](https://github.com/EvolveBeyond/NvPak)**  
-  A clean and modern Neovim configuration designed for those who want a powerful and personalized coding environment.  
+  A modern Neovim configuration that offers a powerful and personalized coding experience.  
   **Language:** Lua
 
 - **[ldnspower](https://github.com/Pakrohk/ldnspower)**  
-  A simple yet effective script to change DNS settings on Linux (or Unix-based systems).  
+  A lightweight script to change DNS settings on Linux/Unix systems.  
   **Language:** Python
 
 - **[qtile](https://github.com/Pakrohk/qtile)**  
-  A dark theme for the Qtile window manager, inspired by the original [dracula/qtile](https://github.com/dracula/qtile).  
+  A sleek dark theme for the Qtile window manager, inspired by [dracula/qtile](https://github.com/dracula/qtile).  
   **Language:** Python
 
 - **[Pakrohk-DotFiles/MPV](https://github.com/Pakrohk-DotFiles/MPV)**  
-  A personalized configuration for the MPV video player, enhancing your viewing experience on GNU/Linux.  
+  A personalized configuration for the MPV video player that enhances your GNU/Linux media experience.  
   **Language:** GLSL
 
 - **[dracula/qtile](https://github.com/dracula/qtile)**  
-  The original dark theme that sparked my own project, offering a sleek look for your Qtile setup.  
+  The original dark theme for Qtile that inspired my work.  
   **Language:** Python
 
 - **[AZiyarati/FastAPI-Learning_Curve](https://github.com/AZiyarati/FastAPI-Learning_Curve)**  
-  An experimental project to learn FastAPI and backend web development through practical application.  
+  An educational project for learning FastAPI and backend development.  
   **Language:** Python
 
-## Achievements
+## Tech Stack
 
-- **YOLO**
-- **Quickdraw**
-- **Starstruck**
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/GLSL-FFFFFF?style=for-the-badge&logo=&logoColor=black" alt="GLSL"/>
+  <img src="https://img.shields.io/badge/Neovim-008080?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
+</p>
 
 ## Connect with Me
 
