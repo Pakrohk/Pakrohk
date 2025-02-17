@@ -3,10 +3,42 @@
 **Pakrohk**  
 *"Purify the soul like the soul of a frozen forest."*
 
+## Dynamic Stats
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pakrohk&show_icons=true&theme=radical" alt="Pakrohk's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakrohk&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Card -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pakrohk&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophy Card -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pakrohk&theme=radical" alt="GitHub Trophy" />
+  </a>
+</p>
+
 ## About Me
+
 I'm a passionate developer from Bushehr, Iran, dedicated to creating elegant and efficient solutions. My work spans from personal configurations for development tools to innovative projects that improve everyday workflows. I love exploring new technologies and continuously refining my craft.
 
 ## Featured Projects
+
 Here are some of the projects I’m most proud of:
 
 - **[EvolveBeyond/NvPak](https://github.com/EvolveBeyond/NvPak)**  
@@ -34,17 +66,17 @@ Here are some of the projects I’m most proud of:
   **Language:** Python
 
 ## Achievements
+
 - **YOLO**
 - **Quickdraw**
 - **Starstruck**
 
 ## Connect with Me
+
 - **Location:** Bushehr, Iran  
 - **Mastodon:** [@pakrohk@khiar.net](https://khiar.net)  
 - **GitHub:** [Pakrohk](https://github.com/Pakrohk)
 
 Feel free to explore my repositories and follow my journey as I continue to experiment and innovate in the world of software development!
-
----
 
 Let's purify the soul of code together!
