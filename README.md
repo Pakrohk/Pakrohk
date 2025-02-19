@@ -1,141 +1,55 @@
-# Hi, I'm Pakrohk 👋
+# 👋 Hi, I'm Pakrohk
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="vertical-align: middle;">
-        <h2>Hi, I'm Pakrohk</h2>
-        <p><em>"Purify the soul like the soul of a frozen forest."</em></p>
-        <p><strong>Evolve Beyond.</strong> I'm always ideating and pushing boundaries to transcend evolution.</p>
-      </td>
-      <td align="right">
-        <img src="https://github.com/Pakrohk/Pakrohk/raw/main/assets/logo.gif" alt="Pakrohk's Soul" width="200" style="border-radius: 50%;" />
-      </td>
-    </tr>
-  </table>
-</div>
+![Pakrohk's Soul](https://github.com/Pakrohk/Pakrohk/raw/main/assets/logo.gif)
 
-## About Me
+*"Purify the soul like the essence of a frozen forest."*
 
-I'm a passionate developer from Bushehr, Iran, dedicated to continuously evolving and crafting innovative solutions. I strive to purify the soul of code and always remain in a state of creative ideation. Let's push beyond conventional limits and **Evolve Beyond** together!
+**Evolve Beyond.** | Developer | Creator | Innovator
 
-## My Skills
+[![GitHub followers](https://img.shields.io/github/followers/Pakrohk?style=social)](https://github.com/Pakrohk)
+
+## 🌟 About Me
+I am a passionate developer from Bushehr, Iran, committed to continuous evolution and crafting innovative solutions. My goal is to purify the essence of code while remaining in a constant state of creative ideation. Let's push beyond conventional limits and **Evolve Beyond** together!
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![GDScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg)
+![GLSL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg)
+![Lua](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg)
+![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg)
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
 
 ### Key Tools
-<p align="center">
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"></a>
-  <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-3581C3?style=flat-square&logo=godotengine&logoColor=white" alt="Godot"></a>
-  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux"></a>
-  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://img.shields.io/badge/GPL-000000?style=flat-square&logo=gpl&logoColor=white" alt="GPL"></a>
-</p>
-
-### Languages I Code In
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="GDScript" width="64" height="64" /><br>
-        GDScript
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64" /><br>
-        Python
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="GLSL" width="64" height="64" /><br>
-        GLSL
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="64" height="64" /><br>
-        Lua
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /><br>
-        Rust
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="64" height="64" /><br>
-        SQL
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="64" height="64" /><br>
-        Bash
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="64" height="64" /><br>
-        Git
-      </td>
-    </tr>
-  </table>
-</div>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-3581C3?style=flat-square&logo=godotengine&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![GPL](https://img.shields.io/badge/GPL-000000?style=flat-square&logo=gpl&logoColor=white)
 
 ### Frameworks & Technologies
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="64" height="64" /><br>
-        FastAPI
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="64" height="64" /><br>
-        SQLAlchemy
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="64" height="64" /><br>
-        Docker
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="64" height="64" /><br>
-        Redis
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="64" height="64" /><br>
-        Pytest
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="64" height="64" /><br>
-        Nginx
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="64" height="64" /><br>
-        Linux
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="64" height="64" /><br>
-        Vim
-      </td>
-    </tr>
-  </table>
-</div>
+![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)
+![SQLAlchemy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg)
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg)
+![Pytest](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg)
+![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg)
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
 
-## GitHub Profile Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pakrohk&show_icons=true&theme=radical" alt="Pakrohk's GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pakrohk&theme=react-dark" alt="Contribution Graph" />
-  </a>
-  <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pakrohk&theme=radical&row=2&column=3" alt="GitHub Trophy" />
-  </a>
-</div>
+![Pakrohk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pakrohk&show_icons=true&theme=tokyonight)
+![Pakrohk's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pakrohk&theme=tokyonight)
 
-## Connect with Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Pakrohk">
-    <img src="https://img.shields.io/github/followers/Pakrohk?style=social" alt="GitHub Follow">
-  </a>
-  <a href="[https://khiar.net](https://khiar.net/@pakrohk)">
-    <img src="https://img.shields.io/badge/Mastodon-@pakrohk-blue?style=social&logo=mastodon" alt="Mastodon Follow">
-  </a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegramHandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pakrohk&style=flat-square&color=blue)
+
+---
+
+🌲 *"Code like a poet, debug like a detective."* 🌲
