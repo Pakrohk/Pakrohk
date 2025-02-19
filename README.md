@@ -52,3 +52,29 @@ I'm a passionate developer from Bushehr, Iran, dedicated to continuously evolvin
 | Pytest | ![Pytest](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg) |
 | Nginx | ![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg) |
 | Linux | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+## GitHub Profile Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pakrohk&show_icons=true&theme=radical" alt="Pakrohk's GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pakrohk&theme=react-dark" alt="Contribution Graph" />
+  </a>
+  <br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pakrohk&theme=radical&row=2&column=3" alt="GitHub Trophy" />
+  </a>
+</div>
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Pakrohk">
+    <img src="https://img.shields.io/github/followers/Pakrohk?style=social" alt="GitHub Follow">
+  </a>
+  <a href="[https://khiar.net](https://khiar.net/@pakrohk)">
+    <img src="https://img.shields.io/badge/Mastodon-@pakrohk-blue?style=social&logo=mastodon" alt="Mastodon Follow">
+  </a>
+</p>
